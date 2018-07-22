@@ -18,3 +18,10 @@
   - [Logo Detection](https://www.oreilly.com/ideas/logo-detection-using-apache-mxnet)
   - [Uncovering Hidden Pattern](https://www.oreilly.com/ideas/uncovering-hidden-patterns-through-machine-learning)
   - [How to learn Deep Learning in 6 months](https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48)
+
+## Deploy to rorodata
+
+Start working on these notebooks right away on the rorodata platform.
+
+[![Deploy to
+rorodata](https://s3.amazonaws.com/assets.rorodata.com/buttons/deploy.png)](https://dashboard.rorodata.com/projects/new?template=https://github.com/rorodata/iris-demo)
